@@ -11,12 +11,18 @@
             "role":     "Developer"
         }
     ],
+    "repositories": [
+        {
+      "type": "git",
+      "url": "https://github.com/padosoft/arcanedev-support"
+    },
+    ],
     "type":    "library",
     "license": "MIT",
     "require": {
         "php": "^8.2",
         "ext-json": "*",
-        "arcanedev/support": "^11.0|^12.0",
+        "arcanedev/support": "l12-support",
         "psr/log": "^1.0|^2.0|^3.0"
     },
     "require-dev": {
