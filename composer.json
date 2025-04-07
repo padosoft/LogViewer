@@ -13,9 +13,9 @@
     ],
     "repositories": [
         {
-      "type": "git",
-      "url": "https://github.com/padosoft/arcanedev-support"
-    },
+          "type": "git",
+          "url": "https://github.com/padosoft/arcanedev-support"
+        }
     ],
     "type":    "library",
     "license": "MIT",
